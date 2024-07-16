@@ -1,0 +1,46 @@
+body{
+    background-image: url(../image/back\ heart.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+.header{
+    /* border: 2px dotted white; */
+    background-color: blue;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 5px;
+    color: red;
+}
+.content1{
+    background-image: url(../image/sk1.jpg);
+    height: 400px;
+    text-align: center;
+    font-size: medium;
+    color: red;
+    /* border: 2px solid white; */
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.navbar{
+    display: block;
+    /* border: 2px solid white; */
+    /* background-color: aliceblue; */
+    margin-right: 100px;
+    padding: 0px;
+    float: right;
+    font-size: 20px;
+    color: white;
+    list-style-type: none;
+
+}
+
+    
+
+    
+}
